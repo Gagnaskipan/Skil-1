@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1452721756 source:c:\users\magnea\copy\gagnaskipan_vor 2016\skilaverkefni\v1_lausn\matrix\main.cpp
+	<iostream>
+	<cstdlib>
+	"Matrix.h"
+
+1452714719 c:\users\magnea\copy\gagnaskipan_vor 2016\skilaverkefni\v1_lausn\matrix\matrix.h
+	<iostream>
+
+1452722527 source:c:\users\magnea\copy\gagnaskipan_vor 2016\skilaverkefni\v1_lausn\matrix\matrix.cpp
+	"Matrix.h"
+
+1452721756 source:c:\users\magnea\copy\gagnaskipan_vor 2016\skilaverkefni\v1_lausn_matrix\matrix\main.cpp
+	<iostream>
+	<cstdlib>
+	"Matrix.h"
+
+1452714719 c:\users\magnea\copy\gagnaskipan_vor 2016\skilaverkefni\v1_lausn_matrix\matrix\matrix.h
+	<iostream>
+
